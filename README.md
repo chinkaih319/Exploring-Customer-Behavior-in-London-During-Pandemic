@@ -1,1 +1,1 @@
-# Exploring Customer Behavior in London During Pandemic
+# Exploring Customer Behavior During Pandemic
